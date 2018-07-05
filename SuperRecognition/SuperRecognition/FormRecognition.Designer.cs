@@ -57,7 +57,7 @@
             this.m_textBoxReuslt.Location = new System.Drawing.Point(12, 39);
             this.m_textBoxReuslt.Multiline = true;
             this.m_textBoxReuslt.Name = "m_textBoxReuslt";
-            this.m_textBoxReuslt.ScrollBars = System.Windows.Forms.ScrollBars.Horizontal;
+            this.m_textBoxReuslt.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
             this.m_textBoxReuslt.Size = new System.Drawing.Size(319, 113);
             this.m_textBoxReuslt.TabIndex = 2;
             // 
