@@ -1,0 +1,9 @@
+E:\CodeDemo\SuperRecognition\SuperRecognition\bin\x86\Debug\SuperRecognition.exe.config
+E:\CodeDemo\SuperRecognition\SuperRecognition\bin\x86\Debug\SuperRecognition.exe
+E:\CodeDemo\SuperRecognition\SuperRecognition\bin\x86\Debug\SuperRecognition.pdb
+E:\CodeDemo\SuperRecognition\SuperRecognition\obj\x86\Debug\SuperRecognition.csprojResolveAssemblyReference.cache
+E:\CodeDemo\SuperRecognition\SuperRecognition\obj\x86\Debug\SuperRecognition.FormRecognition.resources
+E:\CodeDemo\SuperRecognition\SuperRecognition\obj\x86\Debug\SuperRecognition.Properties.Resources.resources
+E:\CodeDemo\SuperRecognition\SuperRecognition\obj\x86\Debug\SuperRecognition.csproj.GenerateResource.Cache
+E:\CodeDemo\SuperRecognition\SuperRecognition\obj\x86\Debug\SuperRecognition.exe
+E:\CodeDemo\SuperRecognition\SuperRecognition\obj\x86\Debug\SuperRecognition.pdb
